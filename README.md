@@ -5,4 +5,4 @@ venv/Scripts/Activate
 PT-BR -> O programa é uma lista de tarefas. Existem algumas funcionalidades que implemento no meu programa. Criei diversas funções, se quiser reaproveitar o código...utilizei o ambiente virtual para esse projeto
 venv/Scripts/Activate
 
-THE MAIN PROGRAM IS IN => MAIN.PY
+<h2>THE MAIN PROGRAM IS IN => MAIN.PY<h2>
