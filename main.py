@@ -2,6 +2,7 @@ print("<--------------------------->")
 print("LIST OF TASKS")
 print("<-------------------------->")
 print("Hello User. Welcome!")
+#OBS: Criei os comentários excessivos para fixar mais o meu conhecimento sobre a lógica utilizada neste projeto.
 
 #Criei uma função principal para o meu programa.
 def main():
@@ -104,6 +105,3 @@ if __name__ == '__main__':
     main()
 
 #CRIEI VÁRIAS FUNÇÕES REUTILIZAVEIS PARA CASO PRECISE AJUSTAR O CÓDIGO FEITO.
-    
-
-#OBS: Sei que o uso de comentários excessivos não é uma prática do CLEAN CODE, porém utilizei comentários excessivos para fixar meu aprendizado neste projeto.
